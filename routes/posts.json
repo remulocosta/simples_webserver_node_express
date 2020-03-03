@@ -1,0 +1,17 @@
+[
+	{
+		"id": "1",
+		"title": "Node.js",
+		"text": "Node.js é um interpretador de JavaScript assíncrono com código aberto orientado a eventos, criado por Ryan Dahl em 2009, focado em migrar a programação do Javascript do cliente (frontend) para os servidores, criando aplicações de alta escalabilidade (como um servidor web)[1], manipulando milhares de conexões/eventos simultâneas em tempo real numa única máquina física."
+	},
+	{
+		"id": "2",
+		"title": "React",
+		"text": "O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web."
+	},
+	{
+		"id": "3",
+		"title": "React Native",
+		"text": "React Native é uma biblioteca Javascript criada pelo Facebook. É usada para desenvolver aplicativos para os sistemas Android e IOS de forma nativa."
+	}
+]
